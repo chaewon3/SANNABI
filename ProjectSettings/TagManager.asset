@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DeathTile
+  - SkyLine
+  - Ground
+  - Cursor
+  - Hang
+  - Border
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Camera
+  - Car
+  - Chracter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Mid
+    uniqueID: 2896286159
+    locked: 0
+  - name: StreetObject
+    uniqueID: 4045602285
+    locked: 0
+  - name: Front
+    uniqueID: 2645222149
+    locked: 0
+  - name: Object
+    uniqueID: 3844113029
+    locked: 0
+  - name: character
+    uniqueID: 3943644693
+    locked: 0
+  - name: UI
+    uniqueID: 442339925
+    locked: 0
+  - name: cursor
+    uniqueID: 2802863129
+    locked: 0
+  - name: Evnet
+    uniqueID: 4274290657
+    locked: 0
